@@ -14,6 +14,7 @@ I used Kubernetes Minikube to deploy the container images to the appropriate env
 I also implemented monitoring and logging functionalities to identify and troubleshoot any issues that may arise. The pipeline was designed with automation in mind, minimizing manual interventions and reducing the likelihood of human errors.
 
 ## Key technologies used: 
+- AWS EC2 Instance
 - Docker
 - Docker Hub 
 - Kubernetes
@@ -33,8 +34,6 @@ I also implemented monitoring and logging functionalities to identify and troubl
 <img width="1396" alt="image" src="https://github.com/ahmad24mliwala/images/blob/main/DevOps-Project-reddit-clone-architecture.png?raw=true">
 
 
-
-<img width="1400" alt="image" src="https://user-images.githubusercontent.com/110477025/227587788-06ce33dd-3a09-4f36-9bbd-aff0925615ed.png">
 
 
 
