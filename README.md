@@ -30,7 +30,7 @@ I also implemented monitoring and logging functionalities to identify and troubl
 
 
 
-<img width="1396" alt="image" src="https://user-images.githubusercontent.com/110477025/227587553-7163c709-85cf-4e23-a00b-823b08758859.png">
+<img width="1396" alt="image" src="https://github.com/ahmad24mliwala/images/blob/main/DevOps-Project-reddit-clone-architecture.png?raw=true">
 
 
 
@@ -39,7 +39,5 @@ I also implemented monitoring and logging functionalities to identify and troubl
 
 
 
-## Contributing
-If you'd like to contribute to this project, please open an issue or submit a pull request.
 
 
